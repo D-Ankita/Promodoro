@@ -11,7 +11,7 @@ const container = document.createElement("div");
 //id
 
 //class
-img.src = "../../images/logo-removebg-preview.svg";
+img.src = "https://d-ankita.github.io/Promodoro/images/logo-removebg-preview.svg";
 img.classList.add("logo-icon");
 container.classList.add("container");
 navigationBar.classList.add("navigationBar")
