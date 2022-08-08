@@ -128,7 +128,7 @@ class Promodoro {
     }
 
     timerEnded() {
-        var audio = new Audio("../../audio/Analog-alarm-clock-bell-rings-short-sound-effect.mp3");
+        var audio = new Audio("../../audio/music.mp3");
         audio.play();
         if (this.intervalId) {
             // stop the this.interval
