@@ -9,7 +9,8 @@ class Promodoro {
         this.heading = heading
         this.minutesTime = minutesTime
         this.totalSeconds = 0
-
+        console.log("In pomodoro constructor");
+        
     }
     startTimer() {
         if (this.validateInput()) {

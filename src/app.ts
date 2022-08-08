@@ -10,11 +10,14 @@ const container = document.createElement("div");
 
 //id
 
+console.log("In appts");
+
 //class
 img.src = "https://d-ankita.github.io/Promodoro/images/logo-removebg-preview.svg";
 img.classList.add("logo-icon");
 container.classList.add("container");
 navigationBar.classList.add("navigationBar")
+console.log(img);
 
 promodoroBtn.innerText ="PromoDoro";
 shortbreakBtn.innerText = "ShortBreak";
