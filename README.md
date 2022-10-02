@@ -3,7 +3,7 @@
 # Typescript-Promodoro-Timer
 Typescript Promodoro timer MD is a Simple Promodoro timer . Typescript was used to build this project. This App was developed at the very beginning of learning Typescript.
 
-Pomodoro Clock App is a customizable pomodoro timer that works on desktop & mobile browser.
+Pomodoro Timer is a customizable pomodoro timer that works on desktop & mobile browser.
 
 The aim of this app is to boost your productivity.
 
@@ -14,15 +14,11 @@ Plain CSS is used for styling.This project is not complete (as no web app could 
 This project is hosted on [Github Pages](https://github.com/D-Ankita/Typescript-Promodoro-Timer).
 
 ## About this Project
-One can use this simple countDown clock for any day to day activities like studying for 1 hour or maybe a screentime of 30 mins etc.. 
+One can use this simple Promodoro timer clock for any day to day activities like studying for 1 hour or maybe a screentime of 30 mins etc.. 
 
-Simply set the time you wish to start, 
-
-<img width="394" alt="image" src="https://user-images.githubusercontent.com/46243069/193444954-24b241b7-d087-46c3-8a85-c35ce392c342.png">
-
-and click the start button. 
-
-<img width="390" alt="image" src="https://user-images.githubusercontent.com/46243069/193444973-9ac0b25e-87a9-426c-a5f1-1ec9b2344bfe.png">
+1. Select the session you wish to start: Promodoro Session or Short Break or Long Break 
+2. Set the Time for that particular Session
+3. Start the session.
 
 as soon as the timer end, It will play a timeup sound.
 
@@ -51,8 +47,15 @@ npm start
 ```
 
 ## Screenshots
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/46243069/193444631-0b04aff9-3f00-4bf6-a5c5-99b6d5c24485.png">
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/46243069/193444642-c1d66e37-78f7-4bf5-bf9d-6043016ac400.png">
+Promodoro Session
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/46243069/193445465-28c9b220-a09f-4f2a-a498-546cd2b20626.png">
+
+Short Break
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/46243069/193445479-1f7d26d6-1894-46e3-a7b9-6d7653e598e1.png">
+
+Long Break
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/46243069/193445485-0f722798-33e0-4281-af75-d7149a167094.png">
+
 
 <hr>
 <img width="384" alt="Untitled_design-removebg-preview" src="https://user-images.githubusercontent.com/46243069/193410006-8bf45587-0a68-473f-a090-e2b1f61caf20.png">
